@@ -1,4 +1,4 @@
-## Training Dashboard
+## Gym Dashboard
 This is pet project based on my training journey in a gym. Not so far ago I have started working out, so I decided that it will be an excellent idea to combine my daily life routine with my job. 
 
 # Task definition
