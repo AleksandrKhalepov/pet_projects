@@ -28,9 +28,7 @@
       
       lb - вес в фунтах (большинство оборудования в зале происхождением из страны свободы поэтому), в случае использования оборудования с            килограммами запись будет в виде "__kg"
 
-Далее я попробовал зарисовать несколько вариантов дашборда и остановился на этом:
-
-(https://github.com/AleksandrKhalepov/Tableau/blob/main/gym_overview/sketch.pdf)
+Далее я зарисовал себе корявый скетч представляемого виза и приступил к дешу
 
 ## Дашборд
 (https://public.tableau.com/views/Workoutsummary/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
