@@ -33,7 +33,7 @@
 (https://github.com/AleksandrKhalepov/Tableau/blob/main/gym_overview/sketch.pdf)
 
 ## Дашборд
-[https://github.com/AleksandrKhalepov/Tableau/blob/main/gym_overview/gym_dashboard](https://public.tableau.com/views/Workoutsummary/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+(https://github.com/AleksandrKhalepov/pet_projects/blob/main/SQL_Projects/gym_overview/dashboard_link.md)(https://public.tableau.com/views/Workoutsummary/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # Итог
 Удовлетворён ли я проделанной работой?
