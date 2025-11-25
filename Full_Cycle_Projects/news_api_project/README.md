@@ -1,9 +1,11 @@
-"Netflix perception in the media using sentiment analysis"
+## "Netflix perception in the media using sentiment analysis"
 
-Project goal:
+# Project goal:
 Development and implementation of a fully automated system for monitoring and evaluating the dynamics of the tonality of Netflix publications in the media at the present time.
 
-Completed tasks and key results:
+---
+
+# Completed tasks and key results:
 
 Designed and implemented data collection in Python using the Requests library for daily downloading of news articles via NewsAPI.
 
@@ -17,10 +19,16 @@ Configured Apache Airflow to automate the ETL pipeline, ensuring daily, reliable
 
 Developed an interactive BI dashboard in Apache Superset for visualizing key metrics.
 
-Stack:
+---
+# Stack:
 -Data source: NewsApi
+
 -Infrastructure: Docker Compose, Gitlab, PyCharm
+
 -Pipeline: Python, TextBlob, Pandas, Request
+
 -Orchestrator: Apache Airflow
+
 -Data storage and management: PostgreSQL, DBeaber
+
 -BI and reporting: Apache Superset
